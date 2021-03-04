@@ -4,11 +4,17 @@
     <projectFile>task3/task3.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42e3e525-ea21-4d88-8cfd-fc0ec3890161" name="Default Changelist" comment="" />
+    <list default="true" id="42e3e525-ea21-4d88-8cfd-fc0ec3890161" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/task3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/ZDateTime.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task3/ZDateTime.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -19,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1pHb1FsiWF8tKYLAEWgRj4ojLVB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614842746341</updated>
-      <workItem from="1614842748529" duration="5330000" />
+      <workItem from="1614842748529" duration="5432000" />
     </task>
     <servers />
   </component>
@@ -71,6 +78,14 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="838" y="423" key="Github.ShareDialog" timestamp="1614848097543">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="838" y="423" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1614848097543" />
+    <state x="724" y="231" key="Github.UntrackedFilesDialog" timestamp="1614848100590">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="724" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1614848100590" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1614848075956">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

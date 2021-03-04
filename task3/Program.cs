@@ -4,7 +4,7 @@ namespace task3
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             ZDateTime zDateTime = new ZDateTime();
             

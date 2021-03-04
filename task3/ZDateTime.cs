@@ -17,7 +17,6 @@ namespace task3
             FirstFormat = (CurrentTime.ToString("d",
                 CultureInfo.CreateSpecificCulture("en-NZ"))) + " " + (CurrentTime.ToString("t",
                 CultureInfo.CreateSpecificCulture("hr-HR")));
-            ;
         }
 
         public void ToSecond()
@@ -25,7 +24,6 @@ namespace task3
             SecondFormat = (CurrentTime.ToString("d",
                 CultureInfo.CreateSpecificCulture("en-US"))) + " " + (CurrentTime.ToString("t",
                 CultureInfo.CreateSpecificCulture("en-US")));
-            ;
         }
 
         public void CountDigits()
